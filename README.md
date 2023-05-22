@@ -9,4 +9,5 @@ Evento Dev
 
 
 utilizei: 
-![image](https://github.com/Henrique-8A/Pokedex/assets/108709381/717a4a50-de4f-4e20-a549-05c0a0576713)
+![image](https://github.com/Henrique-8A/Pokedex/assets/108709381/50100f11-0f99-4e24-8f8b-771fa59e01c1)
+

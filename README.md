@@ -1,13 +1,16 @@
 # Pokedex
 
-Fiz esse projeto com a Listagem dos Pokemon.
+Projeto com a Listagem dos Pokemon.
+<br>
+Pokedex é um tipo de agenda eletrônica, no universo Pokemon. 
 
-Evento Dev
+<h2>Lista</h2>
+  <p>Visual da listagem dos Pokemon no projeto</p>
+  
+  ![image](https://github.com/Henrique-8A/Pokedex/assets/108709381/1c2f086e-c856-43c7-818d-907466e0ebc7)
+
+  
 
 
-![image](https://github.com/Henrique-8A/Pokedex/assets/108709381/ec458bc5-1b38-4ea3-ad7a-d2d447a3ba26)
 
-
-###Techs usadas###
-![image](https://github.com/Henrique-8A/Pokedex/assets/108709381/50100f11-0f99-4e24-8f8b-771fa59e01c1)
 
